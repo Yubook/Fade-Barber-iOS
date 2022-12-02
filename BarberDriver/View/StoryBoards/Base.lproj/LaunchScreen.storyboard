@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="01J-lp-oVM">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SFProDisplay-Bold.ttf">
+            <string>SFProDisplay-Bold</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="HLf-lw-KRz">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="FADE" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yN2-dP-trS">
+                                        <rect key="frame" x="118.5" y="405" width="177.5" height="86"/>
+                                        <fontDescription key="fontDescription" name="SFProDisplay-Bold" family="SF Pro Display" pointSize="72"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="yN2-dP-trS" firstAttribute="centerY" secondItem="HLf-lw-KRz" secondAttribute="centerY" id="QGm-G7-3LU"/>
+                                    <constraint firstItem="yN2-dP-trS" firstAttribute="centerX" secondItem="HLf-lw-KRz" secondAttribute="centerX" id="xAA-vC-l6N"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="HLf-lw-KRz" secondAttribute="trailing" id="Dr5-Yh-hJ9"/>
+                            <constraint firstItem="HLf-lw-KRz" firstAttribute="leading" secondItem="Ze5-6b-2t3" secondAttribute="leading" id="FOE-Rv-KVk"/>
+                            <constraint firstAttribute="bottom" secondItem="HLf-lw-KRz" secondAttribute="bottom" id="cFe-qK-c6d"/>
+                            <constraint firstItem="HLf-lw-KRz" firstAttribute="top" secondItem="Ze5-6b-2t3" secondAttribute="top" id="sPH-7C-Eli"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

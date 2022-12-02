@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>787177694128-ecm8fejnj1a60f0ji9eh9mqoh8hdn3ib.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.787177694128-ecm8fejnj1a60f0ji9eh9mqoh8hdn3ib</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>787177694128-2pttet9t54741e4m1p07t9f5f4i0cbsq.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCf9_jq44cOsY6DuNx58kLMqmI3MwGHSBY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>787177694128</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yubook.fadepro</string>
+	<key>PROJECT_ID</key>
+	<string>fade-b6034</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fade-b6034.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:787177694128:ios:5b464f3a869b7b77fbac75</string>
+</dict>
+</plist>

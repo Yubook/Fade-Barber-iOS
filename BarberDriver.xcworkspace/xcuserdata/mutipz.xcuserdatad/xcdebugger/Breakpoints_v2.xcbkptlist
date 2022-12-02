@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "083EE588-9774-4A43-8F59-84D64BAC95E9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0E7146F2-1DD4-4D55-9803-E52D18973634"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BarberDriver/Classes/OTP/OtpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "188"
+            endingLineNumber = "188"
+            landmarkName = "verifyCode()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D15EADB2-4360-4052-8D23-F2DD1DED1814"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BarberDriver/Classes/CountryVC/CountryVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "btnClearSearchTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E1173949-DCE3-47F5-B6AB-C574ECFF207D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BarberDriver/Classes/OTP/OtpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "229"
+            endingLineNumber = "229"
+            landmarkName = "loginDriver()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A427610-606E-4DD2-8AF8-D96CBB8AD156"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BarberDriver/Classes/Register/RegisterVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "201"
+            endingLineNumber = "201"
+            landmarkName = "paramRegisterDict()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D8DC9A7-0275-4E57-A85F-FE31E1B01542"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BarberDriver/Classes/OTP/OtpVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "227"
+            endingLineNumber = "227"
+            landmarkName = "loginDriver()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D8DC9A7-0275-4E57-A85F-FE31E1B01542 - cca655d00a80706f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Int) -&gt; () in BarberDriver.OtpVC.loginDriver() -&gt; ()"
+                  moduleName = "BarberDriver"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mutipz/Documents/Fade_Latest/driver/BarberDriver/Classes/OTP/OtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "593">
+               </Location>
+               <Location
+                  uuid = "8D8DC9A7-0275-4E57-A85F-FE31E1B01542 - cca655d00a80706f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Any&gt;, Swift.Int) -&gt; () in BarberDriver.OtpVC.loginDriver() -&gt; ()"
+                  moduleName = "BarberDriver"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mutipz/Documents/Fade_Latest/driver/BarberDriver/Classes/OTP/OtpVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "228"
+                  endingLineNumber = "228"
+                  offsetFromSymbolStart = "1176">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

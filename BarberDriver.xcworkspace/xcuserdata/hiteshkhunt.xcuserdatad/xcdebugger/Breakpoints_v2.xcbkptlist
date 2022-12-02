@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9522794B-AE1D-4E49-AAEE-EDB44D579C1A"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88EDA652-5BBA-4E6E-ADF1-81ED66C5D304"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BarberDriver/Classes/BookingDetails/CancelReasonVC/CancelReasonVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "btnSubmitTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

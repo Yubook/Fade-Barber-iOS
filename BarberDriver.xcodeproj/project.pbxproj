@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		043E33E32940D8F900B146C7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 043E33E22940D8F900B146C7 /* GoogleService-Info.plist */; };
 		0441301728FAE6B200A4726E /* CountryList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0441301628FAE6B200A4726E /* CountryList.swift */; };
 		0441301A28FAE7C100A4726E /* CountryVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0441301928FAE7C100A4726E /* CountryVC.swift */; };
 		0441301C28FB468A00A4726E /* CountryListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0441301B28FB468A00A4726E /* CountryListCell.swift */; };
-		04AE3D2E292E301400885C10 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 04AE3D2D292E301400885C10 /* GoogleService-Info.plist */; };
 		04B1E26E29092153007ABCF8 /* google_maps_style.json in Resources */ = {isa = PBXBuildFile; fileRef = 04B1E26D29092153007ABCF8 /* google_maps_style.json */; };
 		04B8378B27F41E820081972F /* Register.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B8378A27F41E810081972F /* Register.swift */; };
 		04B8378E27F44C890081972F /* RegisterTblCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B8378D27F44C890081972F /* RegisterTblCell.swift */; };
@@ -255,10 +255,10 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		043E33E22940D8F900B146C7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		0441301628FAE6B200A4726E /* CountryList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryList.swift; sourceTree = "<group>"; };
 		0441301928FAE7C100A4726E /* CountryVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryVC.swift; sourceTree = "<group>"; };
 		0441301B28FB468A00A4726E /* CountryListCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountryListCell.swift; sourceTree = "<group>"; };
-		04AE3D2D292E301400885C10 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../GoogleService-Info.plist"; sourceTree = "<group>"; };
 		04B1E26D29092153007ABCF8 /* google_maps_style.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = google_maps_style.json; sourceTree = "<group>"; };
 		04B8378A27F41E810081972F /* Register.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Register.swift; sourceTree = "<group>"; };
 		04B8378D27F44C890081972F /* RegisterTblCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterTblCell.swift; sourceTree = "<group>"; };
@@ -671,8 +671,8 @@
 		0B90767F26283C7A00DF6B0E /* BarberDriver */ = {
 			isa = PBXGroup;
 			children = (
-				0B90769726283CA200DF6B0E /* Model */,
 				0B90769826283CA800DF6B0E /* View */,
+				0B90769726283CA200DF6B0E /* Model */,
 				0B90769926283CAD00DF6B0E /* Classes */,
 				0B90769A26283CB400DF6B0E /* OtherClasses */,
 				0B90769B26283CBB00DF6B0E /* SupportingFiles */,
@@ -769,7 +769,7 @@
 			children = (
 				0B9076DC262941AE00DF6B0E /* Font */,
 				0B90769126283C7F00DF6B0E /* Info.plist */,
-				04AE3D2D292E301400885C10 /* GoogleService-Info.plist */,
+				043E33E22940D8F900B146C7 /* GoogleService-Info.plist */,
 				04B1E26D29092153007ABCF8 /* google_maps_style.json */,
 				0B90768C26283C7F00DF6B0E /* Assets.xcassets */,
 				0B90768926283C7A00DF6B0E /* BarberDriver.xcdatamodeld */,
@@ -1670,8 +1670,8 @@
 				0B61C76F262A9AE000B71C25 /* ReasonView.xib in Resources */,
 				0B90768D26283C7F00DF6B0E /* Assets.xcassets in Resources */,
 				241FFEA227058AE1005B9DE4 /* LICENSE in Resources */,
+				043E33E32940D8F900B146C7 /* GoogleService-Info.plist in Resources */,
 				0B9077192629497900DF6B0E /* SearchBar.xib in Resources */,
-				04AE3D2E292E301400885C10 /* GoogleService-Info.plist in Resources */,
 				0B9076D426283EEB00DF6B0E /* NearBy.storyboard in Resources */,
 				0B9076BB26283E0600DF6B0E /* ValidationToast.xib in Resources */,
 				04B1E26E29092153007ABCF8 /* google_maps_style.json in Resources */,
